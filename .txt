@@ -1,0 +1,4 @@
+here we are creating a gym website using only basics of html css and git
+we will also be learning tailwind by this week 
+and potentially start learning js after 10 days potentially march 04
+we will also be learning basics of c
